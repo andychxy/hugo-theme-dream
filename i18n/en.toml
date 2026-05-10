@@ -20,6 +20,7 @@ allTags = "All Tags"
 minuteRead = " minute read"
 updatedAt = "Updated at"
 socialLinks = "Social Links"
+languageName = "中文"
 
 [article]
 one = "1 article"

@@ -19,6 +19,7 @@ allTags = "所有标签"
 minuteRead = "分钟阅读"
 updatedAt = "更新于"
 socialLinks = "社交链接"
+languageName = "English"
 
 [article]
 one = "1篇文章"
